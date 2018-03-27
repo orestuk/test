@@ -1,0 +1,13 @@
+.page-header {
+  width: 400px;
+  border: 2px solid red;
+  height: 200px;
+  padding: 40px;
+}
+
+.logo {
+  width: auto;
+  border: 2px solid blue;
+  height: 100px;
+  padding: 0 20px;
+}
